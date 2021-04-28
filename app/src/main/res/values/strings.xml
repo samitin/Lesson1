@@ -26,4 +26,6 @@
     <string name="task2_hint_password">Пароль</string>
     <string name="task2_text">Регистрация ползователя</string>
     <string name="task2_button_text">применить</string>
+    <string name="task3_text">Выберите дату</string>
+    <string name="task3_button_text">Ok</string>
 </resources>
